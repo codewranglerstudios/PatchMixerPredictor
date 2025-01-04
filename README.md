@@ -77,6 +77,6 @@ python main.py
 Explore predictions and trading performance using the provided Jupyter Notebook:
 
 ```bash
-under construction
-```
+# note: under construction
 jupyter notebook notebooks/PatchMixerAnalysis.ipynb
+```
