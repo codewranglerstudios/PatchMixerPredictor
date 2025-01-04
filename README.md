@@ -58,7 +58,7 @@ The strategy's design maximizes profit potential through:
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/your-username/PatchMixerPredictor.git
+git clone https://github.com/codewranglerstudios/PatchMixerPredictor.git
 cd PatchMixerPredictor
 ```
 ### **Step 2: Install Dependencies**
