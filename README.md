@@ -9,7 +9,6 @@
 - A **Reinforcement Learning (RL)** agent for decision-making and trading execution.  
 
 This experimental approach combines predictive analytics and adaptive learning to identify profitable trading opportunities while managing risks effectively.  
-The original research paper can be found here: https://github.com/Zeying-Gong/PatchMixer
 ---
 
 ## **Key Features**  
@@ -51,6 +50,12 @@ The strategy's design maximizes profit potential through:
 - **Risk Management:** Transaction costs and volatility are considered in every decision.  
 - **Multi-Step Predictions:** Captures opportunities across various time horizons.  
 - **Data-Driven Actions:** Combines statistical accuracy with policy optimization.  
+
+ ### ** Credits**
+ The prediction Model variant used in the first step, PatchMixer has been chosen because it is
+ designed specifically to capture long term trends making it perfect for multi-year data
+ driven analyzation.
+ The original research paper can be found here: https://github.com/Zeying-Gong/PatchMixer
 
 ---
 
