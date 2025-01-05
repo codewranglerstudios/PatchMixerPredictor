@@ -5,11 +5,11 @@
 
 ## **Overview**  
 **PatchMixerPredictor** is an innovative stock trading strategy that integrates:  
-- A **Convolutional Neural Network (CNN)** for price forecasting.  
+- A **Convolutional Neural Network (CNN)** for price forecasting Using the PatchMixer model.  
 - A **Reinforcement Learning (RL)** agent for decision-making and trading execution.  
 
 This experimental approach combines predictive analytics and adaptive learning to identify profitable trading opportunities while managing risks effectively.  
-
+The original research paper can be found here: https://github.com/Zeying-Gong/PatchMixer
 ---
 
 ## **Key Features**  
