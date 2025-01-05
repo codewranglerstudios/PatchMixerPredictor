@@ -1,0 +1,25 @@
+epoch_time_sum:0, epoch:16, epoch_time_avg:0.0
+epoch_time_sum:0, epoch:16, epoch_time_avg:0.0
+epoch_time_sum:0, epoch:11, epoch_time_avg:0.0
+epoch_time_sum:0, epoch:11, epoch_time_avg:0.0
+epoch_time_sum:0, epoch:11, epoch_time_avg:0.0
+PatchMixer_custom_ftMS_sl192_ll0_pl96_dm256_nh8_el2_dl1_df128_atNone_fc1_ebtimeF_dtTrue_mxNone_stock_predictor_0  
+mse:2.8418445587158203, mae:1.0104975700378418, rse:0.33081600069999695
+
+epoch_time_sum:0, epoch:12, epoch_time_avg:0.0
+PatchMixer_custom_ftMS_sl192_ll0_pl96_dm256_nh8_el2_dl1_df128_atNone_fc1_ebtimeF_dtTrue_mxNone_stock_predictor_0  
+mse:0.0008587733609601855, mae:0.020548555999994278, rse:0.4021538197994232
+
+epoch_time_sum:0, epoch:11, epoch_time_avg:0.0
+PatchMixer_custom_ftMS_sl192_ll0_pl96_dm256_nh8_el2_dl1_df128_atNone_fc1_ebtimeF_dtTrue_mxNone_stock_predictor_0  
+mse:0.0008491642074659467, mae:0.020389366894960403, rse:0.3998975455760956
+
+PatchMixer_custom_ftMS_sl512_ll0_pl128_dm256_nh8_el2_dl1_df128_atNone_fc1_eblearned_dtTrue_mxNone_stock_predictor_0  
+mse:0.004265073221176863, mae:0.03437965363264084, rse:0.3365497887134552
+
+PatchMixer_custom_ftMS_sl512_ll0_pl128_dm256_nh8_el2_dl1_df128_atNone_fc1_eblearned_dtTrue_mxNone_stock_predictor_0  
+mse:0.052147794514894485, mae:0.1514309048652649, rse:0.34339016675949097
+
+PatchMixer_custom_ftMS_sl512_ll0_pl128_dm256_nh8_el2_dl1_df128_atNone_fc1_eblearned_dtTrue_mxNone_stock_predictor_0  
+mse:0.09417875111103058, mae:0.2027336061000824, rse:0.410577654838562
+
