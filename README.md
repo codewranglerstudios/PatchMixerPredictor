@@ -55,7 +55,7 @@ The strategy's design maximizes profit potential through:
  ### ** Credits**
  The prediction Model variant used in the first step, PatchMixer, has been chosen because it is
  designed specifically to capture long term trends making it perfect for multi-year data
- driven analyzation.
+ driven analysis.
  The original research paper can be found here: https://github.com/Zeying-Gong/PatchMixer
 
 ---
